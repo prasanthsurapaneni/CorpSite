@@ -14,7 +14,7 @@
 								<img alt="Logo" class="image-small mb8" src="resources/img/logo-light.png">
 								<h6 class="uppercase mb32" style="font-size: 1.2em;">Light Speed.</h6>
 								<p class="text-center mb0">
-									DARTH VADER IS BACK! HOLA!
+									DARTH VADER IS BACK! 
 								</p>
 							</div>
 						</div>
