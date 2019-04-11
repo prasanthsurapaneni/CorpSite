@@ -6,13 +6,13 @@
 			<ul class="slides">
 				<li class="overlay image-bg">
 					<div class="background-image-holder">
-						<img alt="image" class="background-image" src="resources/img/buildings1.jpg">
+						<img alt="image" class="background-image" src="resources/img/capital2.jpg">
 					</div>
 					<div class="container v-align-transform">
 						<div class="row">
 							<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
 								<img alt="Logo" class="image-small mb8" src="resources/img/logo-light.png">
-								<h6 class="uppercase mb32" style="font-size: 1.2em;">Not an evil organization.</h6>
+								<h6 class="uppercase mb32" style="font-size: 1.2em;">Light Speed.</h6>
 								<p class="text-center mb0">
 									DARTH VADER IS BACK!! VOILA!!
 								</p>
