@@ -6,7 +6,7 @@
 			<ul class="slides">
 				<li class="overlay image-bg">
 					<div class="background-image-holder">
-						<img alt="image" class="background-image" src="resources/img/capital2.jpg">
+						<img alt="image" class="background-image" src="resources/img/capital5.jpg">
 					</div>
 					<div class="container v-align-transform">
 						<div class="row">
